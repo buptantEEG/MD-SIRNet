@@ -1,3 +1,3 @@
 # MD-SIRNet
-Codes have been organized and will be uploaded soon.
+train_model.py is the main python file
 
